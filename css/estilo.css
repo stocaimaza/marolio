@@ -1,0 +1,80 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 3rem;
+}
+
+
+.tamLogo {
+    width: 18rem;
+}
+
+.fuentesNav {
+    font-size: 3rem;
+    padding-left: 2rem;
+}
+
+.encabezado {
+    border-top: solid 20px #c1101a;
+
+}
+
+.botonCangreBurguer {
+    height: 5rem;
+    width: 5rem;
+}
+/* HERO */
+
+.fondoImg {
+    background-image: url("../img/supe.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.colorBtn {
+    background-color: #c1101a;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.tituloPrincipal {
+    color: #c1101a;
+}
+
+/* PRODUCTOS */
+
+.tituloProductos {
+    background-color: #c1101a;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.tituloProductos h2 {
+    font-size: 5rem;
+}
+
+/* CAROUSEL  */
+
+.imgCarousel {
+    height: 350px;
+    object-fit: cover;
+}
+
+/* FOOTER  */
+
+footer {
+    background-color: #c1101a;
+    color: white;
+}
+
+footer ul li a {
+    color: white !important;
+}
+
